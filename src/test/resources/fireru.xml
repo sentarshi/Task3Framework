@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="steamfirefoxru">
+    <parameter name="Locale" value="ru" />
+    <parameter name="Browser" value="Firefox" />
+    <test verbose="2" preserve-order="true" name="test">
+        <classes>
+            <class name="Tests.SteamFileDownload">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+{
+  "language" :"Русский",
+  "mainmenuCategories": "genre_tab",
+  "submenuAction": "Экшен",
+  "discmenu": "contenthub_specials_grid",
+  "title.mainpage": "Добро пожаловать в Steam",
+  "title.categorypage": "Просмотр по метке «Экшен»",
+  "title.gamepage": "Сэкономьте",
+  "title.steamdpage": "Steam — превосходная игровая Интернет-платформа"
+}
